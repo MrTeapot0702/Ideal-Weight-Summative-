@@ -1,14 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* This is the Summative assignment for Computer Science.
+ * The title is Ideal Weight Program.
  */
 
 package IdealWeight;
 
 /**
  *
- * @author dolee5394
+ * @author Paul Lee
  */
 public class IdealWeight extends javax.swing.JFrame {
 
@@ -195,7 +193,7 @@ public class IdealWeight extends javax.swing.JFrame {
     private void calculateButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_calculateButtonActionPerformed
     
     //This is to declare the variables and convert each of these variables to 
-    //A String or a Double value.
+    //a String or a Double value.
         
     String yourName;
     String metric;
